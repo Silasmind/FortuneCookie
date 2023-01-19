@@ -1,2 +1,2 @@
 # FortuneCookie
-Clck to see you luck.
+Click to see you luck.
